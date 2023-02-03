@@ -179,7 +179,7 @@ exports.AdMsg = (text) => {
 exports.DoneMsg = (prefix, text) => {
     return `Successfully added message in message list as '${text}'
     
-Access with ${prefix}getmsg ${text}
+Access with ${prefix}${text}
 View list of Messages With ${prefix}listmsg`
 }
 exports.GetMsg = (prefix, command) => {
