@@ -172,7 +172,7 @@ exports.AdMsg = (text) => {
 exports.DoneMsg = (prefix, text) => {
     return `Berhasil menambahkan pesan di list pesan sebagai '${text}'
     
-Akses dengan ${prefix}get ${text}
+Akses dengan ${prefix}getmsg ${text}
 Lihat list Pesan Dengan ${prefix}listmsg`
 }
 exports.GetMsg = (prefix, command) => {
