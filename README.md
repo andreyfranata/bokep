@@ -88,12 +88,12 @@ But some I haven't changed the language 🛐
 ```ts
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-	alfa: 'https://api.andreyfranata.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.andreyfranata.xyz': 'V12',  // 👉 login https://api.andreyfranata.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -112,7 +112,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Andrey Franataོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ andreyfranataོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.andreyfranata.xyz" //bebas asal jan hapus
+global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/andreyfranata" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/andreyfranata" //bebas
 global.email = "andreyfranata@gmail.com" //bebas

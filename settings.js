@@ -8,12 +8,12 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.andreyfranata.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.andreyfranata.my.id': 'V12', // 👉 login https://api.andreyfranata.xyz to get apikey
+   'https://api.zeeoneofc.my.id': 's8S5tV4i', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
