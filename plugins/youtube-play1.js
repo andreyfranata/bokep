@@ -20,7 +20,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 ⬡ Views: ${viewH}
 ⬡ Upload: ${publishedTime}
 ⬡ Link: ${vid.url}
-╰────────⬣`, author.trim(), await( await conn.getFile(thumbnail)).data, ['📽VIDEO', `${usedPrefix}getvid ${url} 360`], false, { quoted: m, 'document': { 'url':'https://wa.me/6283863727401' },
+╰────────⬣`, author.trim(), await( await conn.getFile(thumbnail)).data, ['📽VIDEO', `${usedPrefix}getvid ${url} 360`], false, { quoted: m, 'document': { 'url':'https://wa.me/6283189250309' },
 'mimetype': global.dpdf,
 'fileName': `𝕐𝕠𝕦𝕋𝕦𝕓𝕖 ℙ𝕝𝕒𝕪𝕤`,
 'fileLength': 666666666666666,

@@ -99,7 +99,7 @@ let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 }
 } })*/
 let nowaa = '0'
-let nogww = '6283863727401'
+let nogww = '6283189250309'
 let nogwww = `@${nomorown1.split`@`[0]}`
 let nowa = `${nowaa.split`@`[0]}@s.whatsapp.net`
 let nogw = `${nogww.split`@`[0]}@s.whatsapp.net`

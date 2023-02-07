@@ -56,7 +56,7 @@ const time = moment.tz('Asia/Jakarta').format('HH')
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Jangan lupa join grub nya yak`,                                       previewType: 0,
                         thumbnail: await (await fetch(`https://telegra.ph/file/7fe2d655bcab28e12ed56.jpg`)).buffer(),
-                        sourceUrl: 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+                        sourceUrl: 'https://chat.whatsapp.com/FQJsR2iUw0L8IkiDhJZzxr'
             }
         }
     })

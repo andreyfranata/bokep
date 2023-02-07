@@ -1,7 +1,7 @@
 
 // Abang pilih yg mna tong hilap kasih credits
 // jangan lupa kasih credits
-// join gc https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2
+// join gc https://chat.whatsapp.com/FQJsR2iUw0L8IkiDhJZzxr
 // owner wa.me/6283189250309
 // NAMA SESSIONS NYAA "session.data.json"
 // SC Ori By Aldi Lesmana
@@ -95,27 +95,27 @@ global.nameown1= 'andreyfranata' //ganti
 global.nameown2 = 'andreyfranata' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/FQJsR2iUw0L8IkiDhJZzxr'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
 global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2' //Group wa juga 
+global.sgc = 'https://chat.whatsapp.com/FQJsR2iUw0L8IkiDhJZzxr' //group whatsapp
+global.gcwangsaf = 'https://chat.whatsapp.com/FQJsR2iUw0L8IkiDhJZzxr' //Group wa juga 
 global.fakeyt = 'https://youtube.com/@Ziro-MD_Official' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://youtube.com/@Ziro-MD_Official' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
+global.wame = 'https://api.whatsapp.com/send?phone=+6283189250309' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = 'Chat Owner Kak ><' //Isi aja klo punya 
-global.povo = 'Chat Owner Kak ><' //Isi Aja klo punya 
-global.pgopay = 'Chat Owner Kak ><' //Isi aja klo punya 
-global.plinkaja = 'Chat Owner Kak ><' //link aja,isi Klo punya
-global.ppulsa = 'Chat Owner Kak ><' //Isi aja klo punya 
-global.ppulsa2 = 'Chat Owner Kak ><' //Isi aja klo punya 
+global.pdana = '083189250309 ><' //Isi aja klo punya 
+global.povo = '083189250309 ><' //Isi Aja klo punya 
+global.pgopay = '083189250309 ><' //Isi aja klo punya 
+global.plinkaja = '083189250309 ><' //link aja,isi Klo punya
+global.ppulsa = '083189250309 ><' //Isi aja klo punya 
+global.ppulsa2 = '083189250309 ><' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 

@@ -48,7 +48,7 @@ if (!text) throw `Teksnya?`
 {"productMessage": {
 "product": {
 		"productImage": {
-		 "url": "https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff",
+		 "url": "https://chat.whatsapp.com/FQJsR2iUw0L8IkiDhJZzxr",
 "mimetype": "image/jpeg",
 "fileSha256": "nDM/acIuR4SDh/ZKrS8ysfYlM2Z/RgAuikg9Bj1jK+s=",
 "fileLength": "12295",
