@@ -1,8 +1,8 @@
-pkg update && pkg upgrade
-pkg install git -y
-pkg install nodejs -y
-pkg install ffmpeg -y
-pkg install imagemagick -y
-pkg install yarn
+#!/usr/bin/bash
+
+pkg install imagemagick git nodejs ffmpeg libwebp mc nano yarn
+yarn install
+rm -rf session
 npm start
 
+echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
